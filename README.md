@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Lady-Lex
 
-<!--
-**Lady-Lex/Lady-Lex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a CE Master's student at **NUS CDE**, focusing on **robotics** and **embodied intelligence**.  
+🤖 Most of my experience is in **robot system design**, perception pipelines, and ROS-based applications.  
+👁️ Currently, I'm interested in **indoor navigation tasks using visual foundation models (VFMs)** — combining vision, grounding, and decision-making in real environments.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Languages & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<table>
+<tr>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lady-Lex&show_icons=true&theme=default" />
+</td>
+<td>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lady-Lex&layout=compact" />
+</td>
+</tr>
+</table>
+
+---
+
+## 📬 Contact
+
+- 📧 Email: 3312853823@qq.com
+- 🌐 Personal site: _coming soon_
