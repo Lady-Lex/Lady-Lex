@@ -29,7 +29,7 @@
 <table>
 <tr>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api?username=Lady-Lex&show_icons=true&theme=default" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lady-Lex&theme=nord_bright" />
 </td>
 <td>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lady-Lex&theme=nord_bright" />
