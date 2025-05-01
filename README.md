@@ -24,7 +24,7 @@
 ---
 
 ## 📈 GitHub Stats
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lady-Lex&theme=default" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lady-Lex&theme=nord_bright" />
 
 <table>
 <tr>
@@ -32,7 +32,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Lady-Lex&show_icons=true&theme=default" />
 </td>
 <td>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lady-Lex&theme=default" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lady-Lex&theme=nord_bright" />
 </td>
 </tr>
 </table>
