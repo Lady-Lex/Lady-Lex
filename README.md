@@ -27,7 +27,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Lady-Lex&show_icons=true&theme=default" />
 </td>
 <td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lady-Lex&layout=compact" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lady-Lex&theme=default" />
 </td>
 </tr>
 </table>
