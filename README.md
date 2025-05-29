@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Lady-Lex
 
 🎓 I'm a CE Master's student at **NUS CDE**, focusing on **robotics** and **embodied intelligence**.  
-🤖 Most of my experience is in **robot system design**, perception pipelines, and ROS-based applications.  
+🤖 Most of my experience is in **robot system development and deployment**, perception pipelines, and ROS-based applications.  
 👁️ Currently, I'm interested in **indoor navigation tasks using VLMs** — combining vision, grounding, and decision-making in real environments.
 
 ---
