@@ -47,7 +47,7 @@
 
   <!-- 嵌入式与硬件 -->
   <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white" alt="STM32" height="28"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/stmicroelectronics.svg" alt="STM32" width="40" height="40"/>
   </a>
 
   <!-- 文档与展示 -->
