@@ -47,10 +47,7 @@
 
   <!-- 嵌入式与硬件 -->
   <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noreferrer">
-    <img src="https://www.st.com/etc.clientlibs/st-site/resources/img/logos/st-logo.svg" alt="STM32" width="40" height="40"/>
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white" alt="STM32" height="28"/>
   </a>
 
   <!-- 文档与展示 -->
