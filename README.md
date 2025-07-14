@@ -45,8 +45,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
   </a>
   <a href="https://github.com/cursor" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/85223656?s=200&v=4" alt="Cursor" width="40" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/126759922?s=200&amp;v=4" alt="Cursor" width="40" height="40"/>
   </a>
+  
   <!-- 嵌入式与硬件 -->
   <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/stmicroelectronics.svg" alt="STM32" width="40" height="40"/>
