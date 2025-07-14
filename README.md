@@ -44,6 +44,9 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
   </a>
+  <a href="https://www.cursor.so/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/106233123?s=200&v=4" alt="Cursor" width="40" height="40"/>
+  </a>
 
   <!-- 嵌入式与硬件 -->
   <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noreferrer">
