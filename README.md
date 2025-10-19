@@ -88,5 +88,5 @@
 
 ## 📬 Contact
 
-- 📧 Email: 3312853823@qq.com
+- 📧 Email: rodriquezbrenda38@gmail.com
 - 🌐 Personal site: _coming soon_
