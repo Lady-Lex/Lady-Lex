@@ -88,5 +88,5 @@
 
 ## 📬 Contact
 
-- 📧 Email: rodriquezbrenda38@gmail.com
+- 📧 Email: _coming soon_
 - 🌐 Personal site: _coming soon_
